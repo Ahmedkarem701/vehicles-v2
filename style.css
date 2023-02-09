@@ -12,9 +12,6 @@ body {
     padding: 40px;
     min-height: 100vh;
     margin: auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
 .relative__container {
     width: 100%;
